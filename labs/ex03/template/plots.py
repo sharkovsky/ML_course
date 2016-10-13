@@ -1,12 +1,8 @@
 # -*- coding: utf-8 -*-
 """a function of ploting figures."""
 import numpy as np
-<<<<<<< HEAD
-#from build_polynomial import build_poly
-=======
 from build_polynomial import *
 import matplotlib.pyplot as plt
->>>>>>> 7c0c1537357986b495afe9643dc0b5fb76a75224
 
 #NOTE we copied this from our python notebook
 def build_poly(x, degree):
